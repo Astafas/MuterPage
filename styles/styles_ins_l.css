@@ -1,0 +1,103 @@
+html body{
+	margin: 0;
+	height: 100%;
+	width: 100%;
+}
+.fondoMorado{
+	background-color: #9d00d6;
+}
+.fondoVerde{
+	background-color: #009c8c;
+}
+.textoMorado{
+	color: #9d00d6;
+}
+.textoVerde{
+	color: #009c8c;
+}
+.bordeMorado{
+	border-color: #9d00d6;
+}
+.bordeVerde{
+	border-color: #009c8c;
+}
+.linea{
+	border-style: solid;
+	border-bottom: 1px;
+	width: 98%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+.navbar-inverse .navbar-brand {
+	color: white;	
+}
+.TitleInLn{
+	padding-top: 90px;
+	color: white;
+	background-color: #9d00d6;
+	height: 400px;
+	width: 100%;
+	margin: 0;
+}
+.Title-Text{
+	font-size: 90px;
+	margin: 0;
+}
+.logoInsta{
+	height: 300px;
+	width: auto;
+	padding-bottom: 30px;
+}
+.botonMenu{
+	width: 100%;
+	margin: 0;
+	background-color: #009c8c;
+	color: white;
+	font-weight: bold;
+	border: none;
+	text-decoration: none;
+}
+.contenedor-boton{
+	padding: 0;
+}
+.botonMenu:focus{
+	background-color: #006359;
+}
+.seccion-pagina{
+	margin-top: 20px;
+}
+.endPage{
+	margin-top: 15px;
+	padding-top: 40px;
+	padding-bottom: 2%;
+}
+.creditos{
+	color: white;
+	font-size: 19px;
+}
+.imgDescription{
+	width: 100%;
+	height: auto;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 3px;
+}
+.imgAdapter{
+	height: 100%;
+}
+.textPage{
+	font-size: 30px;
+}
+.botonDescarga{
+	border: none;
+	background-color: transparent;
+}
+.barraSup{
+	margin: 0;
+	width: 100%;
+	padding-right: 0;
+	padding-left: 0;
+}
